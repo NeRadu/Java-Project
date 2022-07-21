@@ -1,0 +1,23 @@
+User with email: costi@yahoo.com was successfully added!
+User with email: alex@yahoo.com was successfully added!
+User with email alex@yahoo.comis the current user started from 2022-07-21T13:28:03.940262700
+Another user is already connected
+Flight from Cluj to Milano date 2021-12-23 duration 80 succesesfully added !
+Flight from Bucharest to LONDON date 2021-12-13 duration 120 succesesfully added !
+Flight from Sibiu to Barcelona date 2021-12-15 duration 140 succesesfully added !
+Flight from Timisoara to Milano date 2021-12-16 duration 90 succesesfully added !
+The flight with id 1 was successfully added for user with email alex@yahoo.com
+User with email email successfully disconnected at :2022-07-21
+There is no connected user!
+User with email costi@yahoo.comis the current user started from 2022-07-21T13:28:03.984630200
+The flight with id 2 was successfully added for user with email costi@yahoo.com
+The flight with id 3 was successfully added for user with email costi@yahoo.com
+The flight with id 10 does not exist!
+Flight from Bucharest to LONDON date 2021-12-13 duration 120
+Flight from Sibiu to Barcelona date 2021-12-15 duration 140
+The user with email costi@yahoo.comdoes not have a ticket for the flight with id 1
+The flight with ID 10 doesn't exist!
+Flight from Bucharest to LONDON date 2021-12-13 duration 120
+Flight from Sibiu to Barcelona date 2021-12-15 duration 140
+The users was successfully saved in the database at 2022-07-21T13:28:04.213462300
+The flights was successfulluy saved in the database at 2022-07-21T13:28:04.223540600
